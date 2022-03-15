@@ -1,0 +1,9 @@
+C:\Users\Clément\Desktop\Programme\utilit\Utilit\Utilit\bin\Debug\Utilit.exe
+C:\Users\Clément\Desktop\Programme\utilit\Utilit\Utilit\bin\Debug\Utilit.pdb
+C:\Users\Clément\Desktop\Programme\utilit\Utilit\Utilit\bin\Debug\Utilit.xml
+C:\Users\Clément\Desktop\Programme\utilit\Utilit\Utilit\obj\x86\Debug\Utilit.vbproj.GenerateResource.Cache
+C:\Users\Clément\Desktop\Programme\utilit\Utilit\Utilit\obj\x86\Debug\Utilit.exe
+C:\Users\Clément\Desktop\Programme\utilit\Utilit\Utilit\obj\x86\Debug\Utilit.xml
+C:\Users\Clément\Desktop\Programme\utilit\Utilit\Utilit\obj\x86\Debug\Utilit.pdb
+C:\Users\Clément\Desktop\Programme\utilit\Utilit\Utilit\obj\x86\Debug\UTILIT.Uutilit.resources
+C:\Users\Clément\Desktop\Programme\utilit\Utilit\Utilit\obj\x86\Debug\UTILIT.Resources.resources

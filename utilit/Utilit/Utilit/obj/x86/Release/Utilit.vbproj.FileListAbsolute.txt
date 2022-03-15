@@ -1,0 +1,9 @@
+C:\Users\Clément\Desktop\Programme\utilit\Utilit\Utilit\bin\Release\Utilit.exe
+C:\Users\Clément\Desktop\Programme\utilit\Utilit\Utilit\bin\Release\Utilit.pdb
+C:\Users\Clément\Desktop\Programme\utilit\Utilit\Utilit\bin\Release\Utilit.xml
+C:\Users\Clément\Desktop\Programme\utilit\Utilit\Utilit\obj\x86\Release\UTILIT.Uutilit.resources
+C:\Users\Clément\Desktop\Programme\utilit\Utilit\Utilit\obj\x86\Release\UTILIT.Resources.resources
+C:\Users\Clément\Desktop\Programme\utilit\Utilit\Utilit\obj\x86\Release\Utilit.vbproj.GenerateResource.Cache
+C:\Users\Clément\Desktop\Programme\utilit\Utilit\Utilit\obj\x86\Release\Utilit.exe
+C:\Users\Clément\Desktop\Programme\utilit\Utilit\Utilit\obj\x86\Release\Utilit.xml
+C:\Users\Clément\Desktop\Programme\utilit\Utilit\Utilit\obj\x86\Release\Utilit.pdb
