@@ -1,2 +1,2 @@
 # utilit
-basic application in c++ to use cmd without command
+basic application to use cmd without command
